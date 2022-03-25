@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetakogo/work_space.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Liubov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetakogo/work_space/issues"
+  },
+  "homepage": "https://github.com/chetakogo/work_space#readme"
+}
